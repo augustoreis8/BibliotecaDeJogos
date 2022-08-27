@@ -1,0 +1,2 @@
+C:\Users\User\Documents\BibliotecaDeJogos\Biblioteca_de_Jogos-LdP\Biblioteca_de_Jogos-LdP\obj\Debug\Biblioteca_de_Jogos-LdP.csproj.AssemblyReference.cache
+C:\Users\User\Documents\BibliotecaDeJogos\Biblioteca_de_Jogos-LdP\Biblioteca_de_Jogos-LdP\obj\Debug\Biblioteca_de_Jogos-LdP.csproj.CoreCompileInputs.cache
